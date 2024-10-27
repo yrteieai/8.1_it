@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C236699-C13D-42AF-9334-DCA1DEAD3133}|8.1_it\\8.1_it.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\8.1_it\\8.1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5C236699-C13D-42AF-9334-DCA1DEAD3133}|8.1_it\\8.1_it.vcxproj|solutionrelative:8.1_it\\8.1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CAE9E9-D2AD-4253-AC0B-BAD6E0951268}|UnitTest_18.1_it\\UnitTest_18.1_it.vcxproj|C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\UnitTest_18.1_it\\UnitTest_18.1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{82CAE9E9-D2AD-4253-AC0B-BAD6E0951268}|UnitTest_18.1_it\\UnitTest_18.1_it.vcxproj|solutionrelative:UnitTest_18.1_it\\UnitTest_18.1_it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest_18.1_it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\UnitTest_18.1_it\\UnitTest_18.1_it.cpp",
+              "RelativeDocumentMoniker": "UnitTest_18.1_it\\UnitTest_18.1_it.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\UnitTest_18.1_it\\UnitTest_18.1_it.cpp",
+              "RelativeToolTip": "UnitTest_18.1_it\\UnitTest_18.1_it.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T11:34:09.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "8.1_it.cpp",
+              "DocumentMoniker": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\8.1_it\\8.1_it.cpp",
+              "RelativeDocumentMoniker": "8.1_it\\8.1_it.cpp",
+              "ToolTip": "C:\\Users\\USER\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\8.1_it\\8.1_it\\8.1_it.cpp",
+              "RelativeToolTip": "8.1_it\\8.1_it.cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T11:05:05.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
